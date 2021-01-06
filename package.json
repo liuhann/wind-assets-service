@@ -19,7 +19,7 @@
     "wind-core-dao": "^1.0.0",
     "wind-core-http": "^1.0.0",
     "wind-core-log": "^1.0.0",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "compare-versions": "^3.6.0",
     "download": "^8.0.0",
     "glob": "^7.1.6",
